@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Your favourite <span class="font-weight-bold"> Energy Engineer </span>
+subtitle: <p style="font-size:20px"> Your favourite <span style="font-size:20px; font-weight:bold; color:#00ab37"> Energy Engineer </span> <p>
 
 profile:
   align: right
@@ -18,5 +18,5 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/nathangiovannini/) or over email at <a href="mailto:{{ site.email | encode_email }}" >nathangiovannini9@gmail.com</a>
+<br> <br> Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/nathangiovannini/) or over email at <a href="mailto:{{ site.email | encode_email }}" >nathangiovannini9@gmail.com</a>
 
