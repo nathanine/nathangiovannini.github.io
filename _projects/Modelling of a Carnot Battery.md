@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Modelling of a Carnot Battery
-description: 
+description: February 2021
 img: assets/img/carnot-cover.png
 importance: 2
 category: University

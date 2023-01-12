@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Energy Efficiency of a Sporting Club
-description: 
+description: June 2021
 img: assets/img/match-ball.jpeg
 importance: 2
 category: University

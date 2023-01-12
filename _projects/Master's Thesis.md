@@ -2,6 +2,7 @@
 layout: page
 title: Optimization of the Energy Scheduling in the Microgrid of Tilos Island
 title2: Master's Thesis
+description: June 2022
 img: assets/img/t-tilos.jpeg
 importance: 1
 category: Theses

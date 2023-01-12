@@ -1,7 +1,7 @@
 ---
 layout: page
 title: H<sub>2</sub> Blending in Gas Network
-description: 
+description: February 2021
 img: assets/img/h2-bg-image.png
 importance: 1
 category: University

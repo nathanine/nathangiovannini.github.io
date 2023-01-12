@@ -2,6 +2,7 @@
 layout: page
 title: Analysis of the Energy Price in the Italian Electricity Market
 title2: Bachelor's Thesis
+description: July 2019
 img: assets/img/bac-cover.png
 importance: 2
 category: Theses
